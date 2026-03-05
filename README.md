@@ -7,10 +7,10 @@ This page provides a couple of practical tutorials to help you get started with 
 The guides include step-by-step instructions and examples to support your workflow and make using the software easier.
 
 ## Tutorials
-
-Tutorial 1: <b>Best practice</b> - Since CarveMe-GutMicrobes performs fine-grained taxonomic pruning of the dataset, this tutorial demonstrates how to determine the most appropriate taxonomic level for MAGs with taxonomy assigned by GTDBtk.
-Tutorial 2: <b>Strain diversity</b> - Comparison of models generated with CarveMe and CarveMe-GutMicrobes in their ability to capture differences between strains of the same species.
-
+<ul>
+<li>Tutorial 1: <b>Best practice</b> - Since CarveMe-GutMicrobes performs fine-grained taxonomic pruning of the dataset, this tutorial demonstrates how to determine the most appropriate taxonomic level for MAGs with taxonomy assigned by GTDBtk</li>
+<li>Tutorial 2: <b>Strain diversity</b> - Comparison of models generated with CarveMe and CarveMe-GutMicrobes in their ability to capture differences between strains of the same species.</li>
+</ul>
 Each tutorial contains clear instructions and example commands or datasets where applicable.
 
 ### How to Use
