@@ -20,10 +20,10 @@ Each tutorial contains clear instructions and example commands or datasets where
   <li>Apply the examples to your own projects.</li>
 </ol>
 
-# 🤝 Contributions
+## 🤝 Contributions
 Suggestions, corrections, and improvements are welcome!
 If you find errors or would like to contribute a new tutorial, feel free to open an issue or submit a pull request.
 
-# 📬 Contact
+## 📬 Contact
 For questions or feedback, please open an issue or contact the maintainer of this repository.
 Happy learning and enjoy the tutorials! 🎉
