@@ -2,7 +2,7 @@
 Tutorials
 
 Welcome!
-This page provides a couple of practical tutorials to help you get started with [CarveMe-GutMicrobes].
+This page provides a couple of practical tutorials to help you get started with <a href="https://github.com/arianccbasile/carvemegut/tree/main" style="color: blue;">CarveMe-GutMicrobes</a>.
 The guides include step-by-step instructions and examples to support your workflow and make using the software easier.
 
 🤝 Contributions
